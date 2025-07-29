@@ -1,0 +1,5 @@
+time_namelookup:  0.000067
+time_connect:     0.000572
+time_starttransfer:  0.005155
+---------------------------
+time_total:       0.005304
